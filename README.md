@@ -10,6 +10,8 @@ Installation Instructions
 1. Download as a zip or tar.gz from GitHub.
 2. drop it into your SugarCRM root directory and extract it.
 3. Verify that the directory hierarchy is /custom/modules/Home/Dashlets/poer_QCDashlet/
+4. Log in to SugarCRM as an administrator. Visit Admin -> Repair -> Rebuild Sugar Dashlets
+5. Users will now find the dashlet available in the Add Dashlets dialog under the "Tools" tab
 
 To-Do List
 ----------
